@@ -142,8 +142,8 @@ body.light-theme {
 }
 
 
-/*========== 
-    Color changes in some parts of 
+/*==========
+    Color changes in some parts of
     the website, in light theme
 ==========*/
 .light-theme .scroll-header {
@@ -199,7 +199,7 @@ body.light-theme {
   padding: 4.5rem 0 1rem;
 }
 
-.section__title, 
+.section__title,
 .section__subtitle {
   text-align: center;
 }
@@ -817,7 +817,7 @@ body.light-theme {
     grid-template-columns: 165px;
     justify-content: center;
   }
-  
+
 }
 /* For medium devices */
 @media screen and (min-width: 576px) {

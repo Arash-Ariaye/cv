@@ -1,3 +1,10 @@
 User-agent: * 
 Disallow:
+Disallow: /cgi-bin/
+Disallow: /assets
+Disallow: /assets/css
+Disallow: /assets/font
+Disallow: /assets/img
+Disallow: /assets/js
+Disallow: /assets/pdf
 Sitemap: http://Arash-Ariaye.github.io/sitemap.xml
